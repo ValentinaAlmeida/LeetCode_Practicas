@@ -1,0 +1,15 @@
+# Ejecutables de Windows
+*.exe
+*.out
+*.app
+
+# Archivos de objetos y librerías
+*.o
+*.obj
+
+# Carpetas de configuración de Visual Studio Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
