@@ -20,7 +20,7 @@ bool isValid(string s) {
                 (actual == '}' && tope == '{')) {
                 pila.pop(); 
             } else {
-                return false; 
+                return false;
             }
         }
     }
